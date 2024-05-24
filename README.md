@@ -25,7 +25,7 @@ The script modifies specific registry keys to execute a desired command with ele
 
 1. **Clone the Repository**:
     ```sh
-   [ git clone https://github.com/yourusername/UAC-Bypass-Project.git](https://github.com/P4R4D0X-HACKS/UAC-Bypass.git)
+    git clone https://github.com/yourusername/UAC-Bypass-Project.git
     cd UAC-Bypass-Project
     ```
 
